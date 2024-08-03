@@ -1,0 +1,15 @@
+p{
+    font-weight: 540;
+    font-size:large;
+}
+/*1.font-weight makes text either light or dark/bold.
+  2.font-size:makes text either large or small
+  3.test-shadow; creates shadow in a text n has 4 values.in example below[ 1px moves shadow left n right,
+   2px moves up n down 4px adds shadow n orange adds color to the shadow] */
+h1{
+    text-align: center;
+    text-shadow: 1px 2px 4px orange;
+}
+a{
+    color: red;
+} 
